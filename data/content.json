@@ -1,47 +1,110 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "Lugali Beauty Lounge",
+  "tagline": "Lash · brow · skin · Glendale",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "heading": "Lashes, brows, glow — set in 90 minutes.",
+    "subheading": "A Glendale beauty boutique on East Broadway specializing in classic and volume lashes, microblading, lamination, and signature facials. Open every day, by appointment.",
+    "ctaText": "Book your appointment",
+    "ctaLink": "tel:7474880666",
+    "image": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=1800&q=80&auto=format&fit=crop"
   },
   "about": {
-    "heading": "About Us",
+    "heading": "Set your gaze. Set your day.",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "Lugali Beauty Lounge is the studio of Liana Galstyan — fifteen years of lash and brow work, ten of those in the Glendale area. We opened the Broadway space in 2024 with one chair, two estheticians, and a bright corner room.",
+      "Every appointment starts with a fifteen-minute consultation — your face shape, your goals, your patch test. We don't sell what doesn't suit. We do tell you the truth about what will and won't last.",
+      "Open every day, by appointment only. Same-day bookings often available — text the studio. We carry our retail line: bond serum, lash cleanser, brow gels we'd actually use ourselves."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Classic Lash Set",
+      "description": "One extension per natural lash, hand-applied with medical-grade adhesive. Natural, awake look. 90 minutes, lasts 4–6 weeks with fills.",
+      "price": "$160"
+    },
+    {
+      "title": "Volume Lash Set",
+      "description": "Hand-made 3D–6D fans for fuller, denser look. Two-hour appointment. Includes aftercare kit and 24-hour fix guarantee.",
+      "price": "$220"
+    },
+    {
+      "title": "Lash Lift + Tint",
+      "description": "No extensions — your natural lashes lifted and tinted dark. Lasts 6–8 weeks, low maintenance, looks unreal.",
+      "price": "$110"
+    },
+    {
+      "title": "Microblading + Powder Brows",
+      "description": "Custom-shaped semi-permanent brows. Includes consultation, mapping, initial session, and 6-week touch-up. Two-year longevity.",
+      "price": "$650"
+    },
+    {
+      "title": "Brow Lamination + Wax + Tint",
+      "description": "Lifted, fuller-looking natural brows in one session. Lasts 6–8 weeks, includes shaping wax and tint.",
+      "price": "$95"
+    },
+    {
+      "title": "Signature Facial",
+      "description": "60-minute custom facial — deep cleanse, enzyme exfoliation, hydrating mask, gua sha sculpting, LED therapy. Comes with a glow."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Sara K.",
+      "rating": 5,
+      "text": "Best lashes I've ever had — they last six weeks, no irritation, and the shape is perfect for my eyes. Liana is a real artist. Worth the drive."
+    },
+    {
+      "name": "Anna T.",
+      "rating": 5,
+      "text": "Got my brows microbladed and I cried (happy). They look so natural and the shape is exactly what I asked for. Healing was easy."
+    },
+    {
+      "name": "Vanessa M.",
+      "rating": 5,
+      "text": "The signature facial is restorative. My skin glows for days after. The space is calm, the music is good, the products are clean. Bliss."
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(747) 488-0666",
+    "email": "hello@lugalibeauty.com",
+    "address": "1004 E Broadway, Glendale, CA 91205",
+    "mapEmbedQuery": "Lugali Beauty Lounge 1004 E Broadway Glendale CA 91205",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
-      "Sunday": "Closed"
-    },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+      "Monday": "9 AM – 7 PM",
+      "Tuesday": "9 AM – 7 PM",
+      "Wednesday": "9 AM – 7 PM",
+      "Thursday": "9 AM – 7 PM",
+      "Friday": "9 AM – 7 PM",
+      "Saturday": "9 AM – 7 PM",
+      "Sunday": "10 AM – 6 PM"
+    }
   },
-  "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+  "gallery": [
+    "https://images.unsplash.com/photo-1571646034647-52e6ea84b28c?w=1200&q=80&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=1200&q=80&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=1200&q=80&auto=format&fit=crop"
+  ],
+  "social": {
+    "yelp": "https://www.yelp.com/biz/lugali-beauty-lounge-glendale",
+    "instagram": "https://www.instagram.com/lugali_beautylounge/",
+    "facebook": "https://www.facebook.com/61568492626249/"
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#C28A7B",
+    "accentColor": "#8A9479",
+    "fontFamily": "Sacramento + Inter"
+  },
+  "seo": {
+    "title": "Lugali Beauty Lounge — Lash, brow & skin studio in Glendale",
+    "description": "Glendale beauty boutique on East Broadway. Classic & volume lashes, microblading, brow lamination, signature facials. Open every day, by appointment.",
+    "keywords": [
+      "lash extensions Glendale",
+      "brow lamination Glendale",
+      "microblading Glendale",
+      "Lugali Beauty",
+      "beauty lounge Glendale",
+      "facials Glendale",
+      "Broadway beauty"
+    ]
   }
 }
